@@ -179,11 +179,6 @@ print(f"Predicted: {predicted_class} with {confidence:.2%} confidence")
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## 📞 Support
-
-For questions and support:
-- Open an [Issue](https://github.com/M-Husnain-Ali/White-Blood-Cell-Classification/issues)
-- Contact: m.husnainali.work@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -193,4 +188,4 @@ For questions and support:
 - All contributors to this project
 
 ---
-Made with ❤️ by Muhammad Husnain Ali
+Made with ❤️ by sabarish v
